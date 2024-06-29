@@ -1,0 +1,1 @@
+ D:\\NTTI\ Years\ 4\\Semester\ 1\\Mobile\ Application\ Framework\\project_team\\.dart_tool\\flutter_build\\797147f6f137ef9327c6412750087929\\native_assets.yaml: 
